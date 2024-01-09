@@ -11,6 +11,7 @@ Utkarsh Bhatt here, Software Engineer working on [Ceph](https://ceph.io/en/)
 
 1. [MicroCeph](https://github.com/canonical/microceph/) 📷
 2. [Ceph ROCKs](https://github.com/canonical/ceph-containers/) :whale: ♜
+3. [Charm MicroCeph](https://github.com/canonical/charm-microceph/) ✨
 
 Read about my work at [utkarshbhatt.com](https://www.utkarshbhatt.com/)
 
