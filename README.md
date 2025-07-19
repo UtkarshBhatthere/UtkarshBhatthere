@@ -1,17 +1,18 @@
 ## Hi there 👋
 
-Utkarsh Bhatt here, Software Engineer working on [Ceph](https://ceph.io/en/)
+Utkarsh Bhatt here, Software Engineer at Canonical working on [Ceph](https://ceph.io/en/)
 
 ### Socials:
 
 [Insta 📷](https://www.instagram.com/utkarshbhatthere/) [Email ✉️](mailto:hello@utkarshbhatt.com)
 
 
-### Maintainer at:
+### Develops and Maintains:
 
 1. [MicroCeph](https://github.com/canonical/microceph/) 📷
 2. [Ceph ROCKs](https://github.com/canonical/ceph-containers/) :whale: ♜
 3. [Charm MicroCeph](https://github.com/canonical/charm-microceph/) ✨
+4. [OG Ceph Charms](https://github.com/canonical/ceph-charms) ✨
 
 Read about my work at [utkarshbhatt.com](https://www.utkarshbhatt.com/)
 
